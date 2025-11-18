@@ -4,32 +4,6 @@
   
     
     <entry>
-      <title>我是谁</title>
-      <link href="/wenzhang/%E5%9C%A8%E5%93%AA%E9%87%8C/"/>
-      <url>/wenzhang/%E5%9C%A8%E5%93%AA%E9%87%8C/</url>
-      
-        <content type="html"><![CDATA[<p>你好  你好你好你好</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>在这里</title>
-      <link href="/wenzhang/%E5%9C%A8%E8%BF%99%E9%87%8C/"/>
-      <url>/wenzhang/%E5%9C%A8%E8%BF%99%E9%87%8C/</url>
-      
-        <content type="html"><![CDATA[<p>在这里</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/wenzhang/hello-world/"/>
       <url>/wenzhang/hello-world/</url>
